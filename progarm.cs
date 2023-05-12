@@ -34,7 +34,10 @@ namespace CSharpConnectMySQL
             }
             Console.WriteLine("complet!"); 
             Console.WriteLine("Success!");
-
+            Console.WriteLine("complet!");
+            Console.WriteLine("Success!");
+            Console.WriteLine("complet!");
+            Console.WriteLine("Success!");
             Console.ReadKey();
         }
     }
