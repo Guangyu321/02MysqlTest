@@ -20,7 +20,9 @@ namespace CSharpConnectMySQL
                 }
                 Console.WriteLine(columnName);
                 Console.WriteLine("-------------------------");
-
+                Console.WriteLine("1"); 
+                Console.WriteLine("2"); 
+                Console.WriteLine("3");
                 //打印每一行的数据
                 foreach (DataRow row in dt.Rows)
                 {
